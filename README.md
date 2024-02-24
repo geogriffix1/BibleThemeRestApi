@@ -1,2 +1,2 @@
-# web-page-repo
-This repository is for a tutorial.
+# BibleThemeRestApi
+This is a set of REST Api commands for a MySql database
